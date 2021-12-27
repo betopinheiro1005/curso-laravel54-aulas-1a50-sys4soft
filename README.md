@@ -47,10 +47,10 @@ Aula 040 – Tinker
 Aula 041 – Exercício de Seeding
 Aula 042 – Query Builder - Exercícios
 Aula 043 – Eloquent ORM - Introdução
-Aulas 044 – Eloquent - Relação entre Model e tabela
-Aula 045 – Colocando em prática o MVC
-Aula 046 – Colocando em prática o MVC
-Aula 047 – Colocando em prática o MVC
+Aula 044 – Eloquent - Relação entre Model e tabela  
+Aula 045 – Colocando em prática o MVC  
+Aula 046 – Colocando em prática o MVC  
+Aula 047 – Colocando em prática o MVC  
 Aula 048 – Adaptar o Model para apresentar registros
 Aula 049 – Eloquent - Editar e eliminar registros
 Aula 050 – Utilização do bootstrap no Laravel

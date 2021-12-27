@@ -12,48 +12,48 @@ Aula 004 - Criação de um projeto Laravel
 Aula 005 - Utilização do Laragon - Parte 1  
 Aula 006 - Utilização do Laragon - Parte 2  
 Aula 007 - Primeiro contato com o Laravel  
-Aula 008 – Laravel Routing
-Aula 009 – Pequenos testes com Routes
-Aula 010 – Continuando a falar de routes simples
-Aula 011 – Passar valores através das Views
-Aula 012 – Passar array multidimensional através das Views
-Aula 013 – Routes com parâmetros
-Aula 014 – Routes com múltiplos parâmetros e parâmetro padrão
-Aula 015 – Controllers
-Aula 016 – Nomeando Routes
-Aula 017 – Utilização de Routes nomeadas
-Aula 018 – Passando dados entre Routes e Controllers
-Aula 019 – De Route para Controller e de Controller para View
-Aula 020 – Resource Controller
-Aula 021 – Blade Template Engine
-Aula 022 – Blade – Sintaxe básica
-Aula 023 – Blade Snippets
-Aula 024 – Blade Layouts
-Aula 025 – Blade Layouts – Parte 2
-Aula 026 – Blade Layouts – Parte 3
-Aula 027 – Blade include sub-views
-Aula 028 – Blade Loops
-Aula 029 – Blade Views para coleções
-Aula 030 – Passando dados de formulário para Controller
-Aula 031 – Resource Controller e dados de formulário
-Aula 032 – Bases de dados - Configurações
-Aula 033 – Introdução a Migrations
-Aula 034 – Criação de Migration
-Aula 036 - Migrations – Criações de tabelas com Blueprint
-Aula 037 – Migrations – Criação de relação entre tabelas
-Aula 038 – Query Builder
-Aula 039 – Seeding
-Aula 040 – Tinker
-Aula 041 – Exercício de Seeding
-Aula 042 – Query Builder - Exercícios
-Aula 043 – Eloquent ORM - Introdução
-Aula 044 – Eloquent - Relação entre Model e tabela  
+Aula 008 – Laravel Routing  
+Aula 009 – Pequenos testes com Routes  
+Aula 010 – Continuando a falar de routes simples  
+Aula 011 – Passar valores através das Views  
+Aula 012 – Passar array multidimensional através das Views  
+Aula 013 – Routes com parâmetros  
+Aula 014 – Routes com múltiplos parâmetros e parâmetro padrão  
+Aula 015 – Controllers  
+Aula 016 – Nomeando Routes  
+Aula 017 – Utilização de Routes nomeadas  
+Aula 018 – Passando dados entre Routes e Controllers  
+Aula 019 – De Route para Controller e de Controller para View  
+Aula 020 – Resource Controller  
+Aula 021 – Blade Template Engine  
+Aula 022 – Blade – Sintaxe básica  
+Aula 023 – Blade Snippets  
+Aula 024 – Blade Layouts  
+Aula 025 – Blade Layouts – Parte 2  
+Aula 026 – Blade Layouts – Parte 3  
+Aula 027 – Blade include sub-views  
+Aula 028 – Blade Loops  
+Aula 029 – Blade Views para coleções  
+Aula 030 – Passando dados de formulário para Controller  
+Aula 031 – Resource Controller e dados de formulário  
+Aula 032 – Bases de dados - Configurações  
+Aula 033 – Introdução a Migrations  
+Aula 034 – Criação de Migration  
+Aula 036 - Migrations – Criações de tabelas com Blueprint  
+Aula 037 – Migrations – Criação de relação entre tabelas  
+Aula 038 – Query Builder  
+Aula 039 – Seeding  
+Aula 040 – Tinker  
+Aula 041 – Exercício de Seeding  
+Aula 042 – Query Builder - Exercícios  
+Aula 043 – Eloquent ORM - Introdução  
+Aula 044 – Eloquent - Relação entre Model e tabela   
 Aula 045 – Colocando em prática o MVC  
 Aula 046 – Colocando em prática o MVC  
 Aula 047 – Colocando em prática o MVC  
-Aula 048 – Adaptar o Model para apresentar registros
-Aula 049 – Eloquent - Editar e eliminar registros
-Aula 050 – Utilização do bootstrap no Laravel
+Aula 048 – Adaptar o Model para apresentar registros  
+Aula 049 – Eloquent - Editar e eliminar registros  
+Aula 050 – Utilização do bootstrap no Laravel  
 
 ##
 

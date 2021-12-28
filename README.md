@@ -1,9 +1,13 @@
 # Curso Laravel 5.4 (Aulas 1 a 50)
 ## SYS4SOFT (João Ribeiro)
 
-### [Videos do curso](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Videos do curso](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)  
 
 Aula 001 - Introdução  
 Aula 002 - Instalação do software  
